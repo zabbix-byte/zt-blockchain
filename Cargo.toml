@@ -1,0 +1,17 @@
+
+[package]
+name = "ZT-BLOCKCHAIN"
+version = "0.1.0"
+authors = ["zabbix-byte - <zabbix@ztrunk.space>"]
+edition = "2018"
+
+[lib]
+name = "blockchainlib"
+path = "src/lib.rs"
+
+[[bin]]
+name = "blockchain"
+path = "src/main.rs"
+
+[dependencies]
+hex = "0.3.2"
