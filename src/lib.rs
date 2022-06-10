@@ -2,6 +2,7 @@ type BlockHash = Vec<u8>;
 
 use std::time::{ SystemTime, UNIX_EPOCH };
 
+// format
 pub fn now () -> u128 {
     let duration = SystemTime::now()
         .duration_since(UNIX_EPOCH)
