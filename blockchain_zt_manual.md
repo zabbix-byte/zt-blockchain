@@ -1,4 +1,4 @@
-**ZT - BLOCKCAIN MANUAL**
+**⚛ ZT - BLOCKCAIN MANUAL**
 ## Blocks and Hashing
 ### Cryptocurrency Blockchains
 **Two main data structures**
@@ -26,5 +26,5 @@ The best to use in my case is: [SHA-256](https://es.wikipedia.org/wiki/SHA-2)
 
 
 
-### **Content**
+### **⚛ Content**
 - [RUST_MANUAL](https://doc.rust-lang.org/1.30.0/book/2018-edition/foreword.html)
