@@ -34,7 +34,8 @@ Difficulty could also be expressed as:
 - Te number of bits or bytes at the beginning of the hash that must be 0
 
 ### Nonce
-
+A hash is a unique, reproducible fingerprint for some data. Therefore, to make a "valid" hash(per difficulty), we must somehow change the bytes we send to the function (the pre-image).
+Remember that even one small change to the input changes the resultant hash drastically. This effect is commonly called avalanching.
 
 ### **⚛ Content**
 - [Rust manuals](https://doc.rust-lang.org/1.30.0/book/2018-edition/foreword.html)
