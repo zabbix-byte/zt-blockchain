@@ -2,9 +2,8 @@
 **Go to zt blockchain [manual](https://github.com/zabbix-byte/zt-blockchain/blob/master/blockchain_zt_manual.md) 📔**
 #### 🛸 Current hash output
 ```rs
-Block[0]: 0000000000000000000000000000000000000000000000000000000000000000 at: 0 whith: Test block
-[220, 215, 75, 104, 155, 200, 8, 31, 32, 79, 161, 69, 244, 244, 239, 40, 183, 201, 186, 201, 110, 100, 189, 121, 2, 12, 231, 88, 160, 247, 194, 121]
-Block[0]: dcd74b689bc8081f204fa145f4f4ef28b7c9bac96e64bd79020ce758a0f7c279 at: 0 whith: Test block
+Block[0]: ae2d9c85db9f9bf4f8eb1a444afc38e4d91c12ed5d50ea4784bdd8e71456164c at: 0 whith: Test block nonce: 0
+Block[0]: 19b6778dc3c4e4d39880f30c37717f1a28edcfa34e82009e87ad3b6b4f0b0000 at: 0 whith: Test block nonce: 256985
 ```
 
 ####  🔩 Dependencies
