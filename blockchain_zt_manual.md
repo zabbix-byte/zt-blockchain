@@ -37,6 +37,9 @@ Difficulty could also be expressed as:
 A hash is a unique, reproducible fingerprint for some data. Therefore, to make a "valid" hash(per difficulty), we must somehow change the bytes we send to the function (the pre-image).
 Remember that even one small change to the input changes the resultant hash drastically. This effect is commonly called avalanching.
 
+### Block Verification
+Given the implementation we have so far, we can also implement a few rudimentary block verfication tets. These steps would be executed wherenever we recibe a new block from a peer. [BITCOIN](https://www.researchgate.net/publication/283622936_Modeling_and_Verification_of_the_Bitcoin_Protocol)
+
 ### **⚛ Content**
 - [Rust manuals](https://doc.rust-lang.org/1.30.0/book/2018-edition/foreword.html)
 - [Difficulty](https://en.bitcoin.it/wiki/Difficulty)
