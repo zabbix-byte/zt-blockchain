@@ -1,5 +1,5 @@
 ### 🐧 ZT-BLOCKCHAIN PROJECT 🐧
-#### 🛸 Current hash output
+#### 🛸 Current blockhash output
 ```rs
 Verify: true
 Mined block: Block[1]: 3f3b19044d2488ee52e45207934593130723e563670db0cc4f89556683cd0a00 at: 1655210489815 whith: Test block nonce: 678
